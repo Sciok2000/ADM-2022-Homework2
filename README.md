@@ -1,6 +1,6 @@
 # ADM-2022-Homework2
 
-AQ2_imgs:  folder containing all the images for algorithmig answers showed in the markdown
+AQ2_imgs:  folder containing all the images for algorithmic answers showed in the markdown
 
 HW_2.ipynb:  complete markdown file 
 
